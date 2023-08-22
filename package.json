@@ -24,6 +24,10 @@
   ],
   "author": "punchly <punchly@foxmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PunchlY/vite-plugin-dev-external.git"
+  },
   "dependencies": {
     "estree-walker": "^3.0.3",
     "magic-string": "^0.30.3"
